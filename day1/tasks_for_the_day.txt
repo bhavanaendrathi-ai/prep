@@ -1,0 +1,25 @@
+DAY 01 - November 20, 2026
+
+a. C Programming(completed)
+
+Topics:
+
+1.Array basics
+2.Array declaration and initialization
+3.Array traversal using loops
+4.Finding sum and average
+5.Finding maximum and minimum
+6.Counting even and odd elements
+7.Finding the second-largest distinct element
+
+
+b. Aptitude(half done)
+
+Topics:
+
+1.Divisibility rules
+2.Prime and composite numbers
+3.HCF
+4.LCM
+5.HCF-LCM relationship
+

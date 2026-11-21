@@ -1,0 +1,58 @@
+# THOUGHTWORKS STEP – TODAY'S C PROGRAMMING PRACTICE
+## Topic: Arrays
+
+### Problem 1: Element Closest to Zero
+Write a C program to find the element closest to zero in an array.
+
+Example:
+Input: {-8, 3, 5, -2, 9}
+Output: -2
+
+### Problem 2: Element Closest to a Given Number
+Write a C program to find the array element closest to a given target number.
+
+Example:
+Array: {10, 25, 38, 42, 60}
+Target: 35
+Output: 38
+
+### Problem 3: Check Whether One Element Is Double Another
+Write a C program to check whether any two elements exist such that one element is exactly twice the other.
+
+Example:
+Array: {3, 7, 12, 5, 24}
+Output: Yes
+Reason: 24 is double 12.
+
+### Problem 4: Move All Zeros to the End
+Write a C program to move all zeros to the end of an array while maintaining the relative order of non-zero elements.
+
+Example:
+Input: {0, 4, 0, 2, 7, 0, 5}
+Output: {4, 2, 7, 5, 0, 0, 0}
+
+### Problem 5: Merge Two Sorted Arrays
+Write a C program to merge two sorted arrays into one sorted array.
+
+Example:
+Array 1: {2, 5, 8}
+Array 2: {1, 3, 6, 9}
+Output: {1, 2, 3, 5, 6, 8, 9}
+
+---
+
+## Practice Rules
+1. Try solving independently before checking solutions.
+2. Do not use built-in sorting functions.
+3. Dry-run every program.
+4. Test at least two different inputs.
+5. Consider edge cases.
+
+## Progress Tracker
+[ ] Problem 1
+[ ] Problem 2
+[ ] Problem 3
+[ ] Problem 4
+[ ] Problem 5
+
+Target: Complete all 5 programs independently.

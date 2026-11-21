@@ -1,0 +1,108 @@
+arrays stores multiple values of the same data type under one variable name 
+
+    declaration:
+        datatype variable_name[size_of_arr];
+
+    initialization:
+        we use {} to initialize an array
+        indexing starts from 0
+        ex:
+            int arr[10] = {1,3,0,6,9,4,2,7,8,5};
+                           0 1 2 3 4 5 6 7 8 9   <- index
+
+    accesing array elements:
+        we can use array index to acces element 
+        ex:
+            printf("%d", arr[3]);
+        output:
+            6 buz idex 3 contains 6
+
+    traversing:
+        traversal: visiting every element in an array
+        we can do travesal in various ways 
+            
+            a.forward traversal - its a standard way to visit every ekement from index 0 to n - 1.
+            ex:
+                #include <stdio.h>
+                int main() {
+                    int a[5] = {10, 20, 30, 40, 50};
+                    int n = 5;
+
+                    for (int i = 0; i < n; i++) {
+                        printf("%d ", a[i]);
+                    }
+                    return 0;
+                }
+        
+            b.reverse/ backewards traversal: we can start from n - 1 and decrement down to 0
+            ex:
+                for (int i = n - 1; i >= 0; i--) {
+                    printf("%d ", a[i]);
+                }
+
+            c.pointer arithmetic
+            In C, an array name decays to a pointer to its first element
+            (a is equivalent to &a[0]). 
+            You can increment a pointer to step through contiguous memory.
+            ex:
+                int *ptr = a;
+                for (int i = 0; i < n; i++) {
+                    printf("%d ", *(ptr + i)); // or *ptr++ if advancing ptr directly
+                }
+            
+            You can also use a boundary pointer to stop at the end of the array:
+
+            C
+            int *ptr = a;
+            int *end = a + n; // points one past the last element (valid for comparison only)
+
+            while (ptr < end) {
+                printf("%d ", *ptr);
+                ptr++;
+            }
+
+            d.using while or do-while loops:
+
+                Useful when the loop condition depends on something beyond a simple counter, or when you want to guarantee at least one execution (do-while).
+
+                int i = 0;
+                while (i < n) {
+                    printf("%d ", a[i]);
+                    i++;
+                }
+
+                With do-while (always guard with if (n > 0) in real code so empty arrays don't read out of bounds):
+
+                if (n > 0) {
+                    int i = 0;
+                    do {
+                        printf("%d ", a[i]);
+                        i++;
+                    } while (i < n);
+                }  
+
+            e.Custom Step / Stride Traversal
+                You don't always have to increment by 1—for example, visiting only even indices (i += 2).
+
+                for (int i = 0; i < n; i += 2) {
+                printf("%d ", a[i]); // prints elements at index 0, 2, 4...
+                }
+            
+            f.Multi-Dimensional Array Traversal (Nested Loops)
+                For a 2D array (like a matrix), you typically use nested loops—row by row (row-major order) or column by column.
+
+                C
+                int matrix[2][3] = {{1, 2, 3}, {4, 5, 6}};
+
+                for (int row = 0; row < 2; row++) {
+                    for (int col = 0; col < 3; col++) {
+                        printf("%d ", matrix[row][col]);
+                    }
+                }
+     
+    basic array operation:
+    all the codes will be in the other file where i will execute them
+    
+
+
+     
