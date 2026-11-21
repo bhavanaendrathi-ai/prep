@@ -154,3 +154,71 @@ int main(){
     return 0;
 }
 
+//Check Whether One Element Is Double Another
+
+#include <stdio.h>
+
+int main(){
+    
+    int arr[5] = {3, 7, 12, 5, 24};
+    int found = 0;
+    
+    for(int i = 0; i < 5;i++)
+    {
+        for(int j = 0; j < i; j++){
+            if(arr[i] == 2 * arr[j])
+            {
+                found = 1;
+            }
+        }
+        
+    }
+    
+    if(found == 1)
+    {
+        printf("yes");
+        //break;
+    }
+    else
+    {
+        printf("no");
+    }
+    return 0;
+}
+
+//move all zeroes to the end of the array
+#include <stdio.h>
+
+int main()
+{
+    int arr[7] = {0,4,0,2,7,0,5};
+    int n = 7;
+    int pos = 0;
+    
+    //moves all the non zeros to front
+    for(int i = 0; i < n; i++)
+    {
+        if(arr[i] != 0)
+        {
+            arr[pos] = arr[i];
+            pos++;
+        }
+    }
+    
+    //zeros moves to the end
+    while(pos < n)
+    {
+        arr[pos] = 0;
+        pos++;
+    }
+
+    //prints the array
+    for(int i = 0; i < n; i++)
+    {
+        printf("%d", arr[i]);
+    }
+    
+    return 0;
+}
+
+//merge two sorted arrays into a single sorted array

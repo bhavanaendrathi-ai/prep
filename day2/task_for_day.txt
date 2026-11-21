@@ -49,10 +49,75 @@ Output: {1, 2, 3, 5, 6, 8, 9}
 5. Consider edge cases.
 
 ## Progress Tracker
-[ ] Problem 1
-[ ] Problem 2
-[ ] Problem 3
-[ ] Problem 4
-[ ] Problem 5
+[ done ] Problem 1
+[ done ] Problem 2
+[ done ] Problem 3
+[ done ] Problem 4
+[  ] Problem 5
 
 Target: Complete all 5 programs independently.
+
+all the questions were honestly tricky for me but i still managed to solve 3 of them without any hints 
+so i think i am improving but couldnt solve the last one i will try to understand the logic and will do in tmrs session
+
+# THOUGHTWORKS STEP – DAILY APTITUDE PRACTICE
+## Today's Topics: Number Theory + Time, Speed and Distance
+
+### Problem 1: HCF and LCM
+Find the HCF and LCM of 24 and 36.
+
+Also verify the relationship:
+
+HCF × LCM = Product of the two numbers.
+
+### Problem 2: Divisibility
+Find the smallest number that must be added to 5678 to make it exactly divisible by 9.
+
+### Problem 3: Prime Numbers
+A number is between 40 and 60.
+
+It is divisible by 7 and is a prime number.
+
+Find the number.
+
+### Problem 4: Average Speed
+A person travels from City A to City B at 40 km/hr and returns from City B to City A at 60 km/hr.
+
+Find the average speed for the entire journey.
+
+### Problem 5: Relative Speed
+Two vehicles start from two different places that are 300 km apart.
+
+Vehicle A travels towards Vehicle B at 40 km/hr.
+
+Vehicle B travels towards Vehicle A at 60 km/hr.
+
+Both start at the same time.
+
+Find:
+
+1. Their relative speed.
+2. The time taken to meet.
+3. The distance travelled by each vehicle before meeting.
+
+---
+
+## Practice Instructions
+
+1. Write down the given information.
+2. Identify the formula.
+3. Substitute the values.
+4. Solve step by step.
+5. Avoid using a calculator initially.
+
+## Progress Tracker
+
+[ done ] Problem 1 – HCF and LCM
+[ done ] Problem 2 – Divisibility
+[ done ] Problem 3 – Prime Numbers
+[  ] Problem 4 – Average Speed
+[  ] Problem 5 – Relative Speed
+
+Target: Solve all 5 independently and explain your reasoning.
+
+i will complete all the remaining topics tmr
