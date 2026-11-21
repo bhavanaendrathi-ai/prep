@@ -1,0 +1,86 @@
+# THOUGHTWORKS STEP – DAILY STUDY PLAN
+## Date: November 22
+
+---
+
+# 1. C PROGRAMMING – ARRAYS
+Duration: 60–75 minutes
+
+### Problem 1: Merge Two Sorted Arrays
+Merge two sorted arrays into one sorted array without using built-in sorting functions.
+
+### Problem 2: Check Overlapping Ranges
+Write a C program to check whether two numeric ranges overlap.
+
+### Problem 3: Repeat Array Elements
+Write a C program to repeat array elements to construct a new array.
+
+### Problem 4: Forward and Backward Patterns
+Generate arrays using forward and backward number patterns.
+
+### Problem 5: Average Based on Divisibility
+Find the average of array elements satisfying given divisibility conditions.
+
+Target:
+- Solve all 5 programs.
+- Understand the logic.
+- Test different inputs.
+- Handle edge cases.
+
+---
+
+# 2. APTITUDE – TIME, SPEED AND DISTANCE
+Duration: 60–75 minutes
+
+### Topics to Learn
+
+1. Basic concepts of speed, distance and time.
+2. Average speed.
+3. Relative speed.
+4. Two vehicles travelling in opposite directions.
+5. Two vehicles travelling at different speeds with different starting times.
+6. Finding meeting time.
+7. Calculating distance using total journey time and different speeds.
+8. Problems involving people travelling towards each other.
+
+### Practice Target
+- Understand all concepts.
+- Learn the formulas.
+- Solve 5 interview-level questions.
+- Practise twisted problems.
+
+---
+
+# 3. INTERVIEW PRACTICE
+Duration: 20 minutes
+
+1. Explain your array programs verbally.
+2. Explain the logic behind merging sorted arrays.
+3. Solve one twisted speed and distance question.
+4. Practise explaining your approach step by step.
+
+---
+
+# DAILY PROGRESS TRACKER
+
+## C Programming
+[ ] Merge two sorted arrays.
+[ ] Check overlapping ranges.
+[ ] Repeat array elements.
+[ ] Generate forward and backward patterns.
+[ ] Find average based on divisibility.
+
+## Aptitude – Time, Speed and Distance
+[ ] Learn basic speed, distance and time.
+[ ] Practise average speed.
+[ ] Understand relative speed.
+[ ] Solve meeting-time problems.
+[ ] Solve 5 interview-level questions.
+
+## Interview Practice
+[ ] Explain one C program.
+[ ] Solve one twisted question.
+[ ] Complete verbal interview practice.
+
+---
+
