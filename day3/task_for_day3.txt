@@ -71,11 +71,11 @@ Duration: 20 minutes
 [ ] Find average based on divisibility.
 
 ## Aptitude – Time, Speed and Distance
-[ ] Learn basic speed, distance and time.
-[ ] Practise average speed.
-[ ] Understand relative speed.
-[ ] Solve meeting-time problems.
-[ ] Solve 5 interview-level questions.
+[ done ] Learn basic speed, distance and time.
+[ done ] Practise average speed.
+[ done ] Understand relative speed.
+[ done ] Solve meeting-time problems.
+[ done ] Solve 5 interview-level questions.
 
 ## Interview Practice
 [ ] Explain one C program.
