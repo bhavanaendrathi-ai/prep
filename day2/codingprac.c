@@ -221,4 +221,4 @@ int main()
     return 0;
 }
 
-//merge two sorted arrays into a single sorted array
+//merge two sorted arrays into a single sorted array//done in day3 codeprac3.c
