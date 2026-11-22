@@ -1,0 +1,112 @@
+# THOUGHTWORKS STEP – DAILY STUDY PLAN
+## Date: November 23
+
+---
+
+# 1. C PROGRAMMING – ARRAYS REVISION + PROBLEM SOLVING
+Duration: 60–75 minutes
+
+### Part A: Revision
+Revise and independently code yesterday's 5 problems:
+
+1. Merge two sorted arrays.
+2. Check overlapping ranges.
+3. Repeat array elements.
+4. Generate forward and backward patterns.
+5. Find average based on divisibility.
+
+### Part B: New Practice Problems
+
+**Problem 1: Second Largest Element**
+Find the second-largest distinct element in an array without sorting.
+
+**Problem 2: Move Zeros to the End**
+Move all zeros to the end while maintaining the order of non-zero elements.
+
+**Problem 3: Frequency of Elements**
+Count how many times each element appears in an array.
+
+**Problem 4: Rotate Array**
+Rotate an array to the right by K positions.
+
+**Problem 5: Find Missing Number**
+An array contains numbers from 1 to N, with one number missing. Find the missing number.
+
+### Target:
+- Understand the logic behind all 5 problems.
+- Solve at least 3 independently.
+- Test edge cases.
+- Explain time and space complexity.
+- Practise writing code without looking at solutions.
+
+---
+
+# 2. APTITUDE – TIME AND WORK
+Duration: 60–75 minutes
+
+### Topics to Learn
+
+1. Basic concept of work and efficiency.
+2. Work done in one day.
+3. Finding total time taken by one person.
+4. Combined work of two people.
+5. Combined work of three people.
+6. Different working efficiencies.
+7. People working on alternate days.
+8. Joining and leaving work problems.
+9. Work and wages.
+10. Pipes and cisterns basics.
+
+### Practice Target:
+- Understand all basic formulas.
+- Solve 5 interview-level questions.
+- Practise twisted questions.
+- Learn shortcuts and logical approaches.
+
+---
+
+# 3. INTERVIEW PRACTICE
+Duration: 20 minutes
+
+1. Explain the logic of finding the second-largest element.
+2. Explain how moving zeros works.
+3. Solve one twisted Time and Work question.
+4. Practise explaining your approach before writing code.
+5. Give a short verbal mock interview.
+
+---
+
+# DAILY PROGRESS TRACKER
+
+## C Programming
+[ ] Revise yesterday's 5 programs.
+[ ] Find the second-largest element.
+[ ] Move zeros to the end.
+[ ] Find frequency of elements.
+[ ] Rotate an array.
+[ ] Find the missing number.
+
+## Aptitude – Time and Work
+[ ] Learn work and efficiency.
+[ ] Understand combined work.
+[ ] Solve alternate-day problems.
+[ ] Practise joining and leaving problems.
+[ ] Solve 5 interview-level questions.
+
+## Interview Practice
+[ ] Explain one array program.
+[ ] Solve one twisted aptitude question.
+[ ] Complete verbal interview practice.
+
+---
+
+## END-OF-DAY GOAL
+
+- Strengthen C array fundamentals.
+- Improve problem-solving speed.
+- Complete Time and Work fundamentals.
+- Become more confident explaining solutions in interviews.
+
+**Daily target: 2–2.5 hours of focused preparation.**
+
+Remember: Understand → Dry Run → Code → Test → Explain.

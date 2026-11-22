@@ -64,11 +64,11 @@ Duration: 20 minutes
 # DAILY PROGRESS TRACKER
 
 ## C Programming
-[ ] Merge two sorted arrays.
-[ ] Check overlapping ranges.
-[ ] Repeat array elements.
-[ ] Generate forward and backward patterns.
-[ ] Find average based on divisibility.
+[ done ] Merge two sorted arrays.
+[ done ] Check overlapping ranges.
+[ done ] Repeat array elements.
+[ done ] Generate forward and backward patterns.
+[ done ] Find average based on divisibility.
 
 ## Aptitude – Time, Speed and Distance
 [ done ] Learn basic speed, distance and time.
