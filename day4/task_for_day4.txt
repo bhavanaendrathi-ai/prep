@@ -11,6 +11,9 @@ Revise and independently code yesterday's 5 problems:
 
 1. Merge two sorted arrays.
 2. Check overlapping ranges.
+a <= d: The first range starts before the second range ends.
+c <= b: The second range starts before the first range ends.
+
 3. Repeat array elements.
 4. Generate forward and backward patterns.
 5. Find average based on divisibility.
