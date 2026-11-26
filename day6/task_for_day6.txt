@@ -1,0 +1,86 @@
+# THOUGHTWORKS STEP PREPARATION
+## DAY 6 📚
+
+**Date:** November 26  
+**Total Study Time:** 3 Hours + Optional Project Revision
+
+### 1. C PROGRAMMING (60 MINUTES)
+**Topic: Arrays**
+
+Revise:
+- Array traversal
+- Largest and smallest element
+- Second-largest distinct element
+- Counting duplicate elements
+- Finding unique elements
+
+Practice Programs:
+1. Find the second-largest distinct element in an array.
+2. Count how many times each element occurs.
+3. Print only the elements that appear once.
+
+**Interview Practice:**
+- Explain the logic before writing the code.
+- Handle duplicate elements correctly.
+- Explain why your solution works.
+
+### 2. APTITUDE (60 MINUTES)
+**Topic: Time and Work**
+
+Learn:
+- Work and efficiency
+- One person's work in one day
+- Combined work
+- Work done by different people
+- Work and wages
+- Pipes and cisterns
+
+Important Formulas:
+
+One day's work = 1 / Total days
+
+Combined work = 1/A + 1/B
+
+Time taken together = 1 / (1/A + 1/B)
+
+Efficiency = Work / Time
+
+Practice Questions:
+1. A completes a job in 12 days and B in 18 days. Find their combined time.
+2. A and B complete a job in 10 days. A alone takes 15 days. How long does B take?
+3. A is twice as efficient as B. If B takes 20 days, how long does A take?
+
+### 3. GROUP MOCK INTERVIEW (60 MINUTES)
+
+Mock Structure:
+- 10 minutes: C fundamentals and output questions
+- 20 minutes: Array coding questions
+- 15 minutes: Aptitude problems
+- 15 minutes: Twisted questions and explanations
+
+Each person must:
+- Explain at least one program aloud.
+- Solve questions without reading the solution.
+- Explain the reasoning behind their answer.
+
+### 4. PROJECT REVISION (OPTIONAL, 30 MINUTES)
+**Project: DigiWar**
+
+Prepare answers to:
+1. What problem does DigiWar solve?
+2. Why did you choose this project?
+3. What technologies did you use?
+4. What was your contribution?
+5. What was the most difficult part?
+6. What would you improve if you had more time?
+
+Practice explaining the project in 2 minutes.
+
+### DAY 6 COMPLETION CHECKLIST
+
+☐ Complete 3 C programs  
+☐ Finish Time and Work formulas and practice  
+☐ Participate in the group mock interview  
+☐ Explain DigiWar in 2 minutes  
+
+**Today's Goal:** Focus on understanding the logic, not just completing the questions. Be prepared to explain every answer during the interview.
